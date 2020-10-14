@@ -9,7 +9,7 @@ import Roll.*;
 import Store.*;
 import java.util.*;
 
-class TestThings {
+class MyUnitTest {
 
 	@Test public void test_roll_factory() {
 		Roll r = RollType.factory_create(RollType.EGG);
